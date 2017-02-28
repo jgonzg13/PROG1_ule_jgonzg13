@@ -1,1 +1,10 @@
-# PROG1_ule_jgonzg13
+1- corral   http://dle.rae.es/?id=Awe9N3e
+2- botica   http://dle.rae.es/?id=5z4wYOa|5z5j8O7
+3- vaivén   http://dle.rae.es/?id=bHAEooo
+4- filandón http://dle.rae.es/?id=HterQ82
+5- diábolo  http://dle.rae.es/?id=DdStjLe
+6- cortar   http://dle.rae.es/?id=B1wW3tP
+7- plaza    http://dle.rae.es/?id=TNxkfxk
+8- sala     http://dle.rae.es/?id=X0gpajU
+9- terraza  http://dle.rae.es/?id=ZbbBPMT
+10- campana http://dle.rae.es/?id=6zF3lAA# PROG1_ule_jgonzg13
